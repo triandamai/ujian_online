@@ -36,7 +36,7 @@
 					<li class="<?=$page==='jurusan'?"active":""?>">
 						<a href="<?=base_url('jurusan')?>">
 							<i class="fa fa-circle-o"></i> 
-							Master Jurusan
+							Master Toefl
 						</a>
 					</li>
 					<li class="<?=$page==='kelas'?"active":""?>">
@@ -48,7 +48,7 @@
 					<li class="<?=$page==='matkul'?"active":""?>">
 						<a href="<?=base_url('matkul')?>">
 							<i class="fa fa-circle-o"></i>
-							Master Mata Kuliah
+							Master Section
 						</a>
 					</li>
 
@@ -64,13 +64,13 @@
 					<li class="<?=$page==='kelasdosen'?"active":""?>">
 						<a href="<?=base_url('kelasdosen')?>">
 							<i class="fa fa-circle-o"></i>
-							Kelas - Dosen
+							Kelas - Pengajar
 						</a>
 					</li>
 					<li class="<?=$page==='jurusanmatkul'?"active":""?>">
 						<a href="<?=base_url('jurusanmatkul')?>">
 							<i class="fa fa-circle-o"></i>
-							Jurusan - Mata Kuliah
+							Kelas - Section
 						</a>
 					</li>
 				</ul>

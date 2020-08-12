@@ -20,7 +20,7 @@
                 <tr>
                     <th>No.</th>
                     <th>NIP</th>
-                    <th>Dosen</th>
+                    <th>Pengajar</th>
                     <th>Kelas</th>
 					<th class="text-center">Edit</th>
 					<th class="text-center">
@@ -32,7 +32,7 @@
                 <tr>
                     <th>No.</th>
                     <th>NIP</th>
-                    <th>Dosen</th>
+                    <th>Pengajar</th>
                     <th>Kelas</th>
 					<th class="text-center">Edit</th>
 					<th class="text-center">

@@ -41,7 +41,7 @@
 					<input type="checkbox" class="select_all">
 				</th>
                 <th width="25">No.</th>
-				<th>Dosen</th>
+				<th>Pengajar</th>
                 <th>Mata Kuliah</th>
 				<th>Soal</th>
 				<th>Tgl Dibuat</th>
@@ -54,7 +54,7 @@
 					<input type="checkbox" class="select_all">
 				</th>
                 <th width="25">No.</th>
-				<th>Dosen</th>
+				<th>Pengajar</th>
                 <th>Mata Kuliah</th>
 				<th>Soal</th>
 				<th>Tgl Dibuat</th>
