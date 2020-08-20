@@ -104,7 +104,7 @@ class Mahasiswa extends CI_Controller
 					'nama' => form_error('nama'),
 					'email' => form_error('email'),
 					'jenis_kelamin' => form_error('jenis_kelamin'),
-					'jurusan' => form_error('jurusan'),
+					'jurusan' => 1,//form_error('jurusan'),
 					'kelas' => form_error('kelas'),
 				]
 			];
