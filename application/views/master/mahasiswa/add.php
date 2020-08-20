@@ -35,13 +35,13 @@
                         </select>
                         <small class="help-block"></small>
                     </div>
-                    <div class="form-group">
+                    <!-- <div class="form-group">
                         <label for="jurusan">Jurusan</label>
                         <select id="jurusan" name="jurusan" class="form-control select2">
                             <option value="" disabled selected>-- Pilih --</option>
                         </select>
                         <small class="help-block"></small>
-                    </div>
+                    </div> -->
                     <div class="form-group">
                         <label for="kelas">Kelas</label>
                         <select id="kelas" name="kelas" class="form-control select2">
