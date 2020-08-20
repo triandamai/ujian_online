@@ -17,13 +17,13 @@
                     <small class="help-block"></small>
                 </div>
                 <div class="form-group">
-                    <label for="nama_dosen">Nama Dosen</label>
-                    <input type="text" class="form-control" name="nama_dosen" placeholder="Nama Dosen">
+                    <label for="nama_dosen">Nama Pengajar</label>
+                    <input type="text" class="form-control" name="nama_dosen" placeholder="Nama Pengajar">
                     <small class="help-block"></small>
                 </div>
                 <div class="form-group">
-                    <label for="email">Email Dosen</label>
-                    <input type="text" class="form-control" name="email" placeholder="Email Dosen">
+                    <label for="email">Email Pengajar</label>
+                    <input type="text" class="form-control" name="email" placeholder="Email Pengajar">
                     <small class="help-block"></small>
                 </div>
                 <div class="form-group">

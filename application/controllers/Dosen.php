@@ -27,8 +27,8 @@ class Dosen extends CI_Controller
 	{
 		$data = [
 			'user' => $this->ion_auth->user()->row(),
-			'judul'	=> 'Dosen',
-			'subjudul' => 'Data Dosen'
+			'judul'	=> 'Pengajar',
+			'subjudul' => 'Data Pengajar'
 		];
 		$this->load->view('_templates/dashboard/_header.php', $data);
 		$this->load->view('master/dosen/data');
@@ -44,8 +44,8 @@ class Dosen extends CI_Controller
 	{
 		$data = [
 			'user' => $this->ion_auth->user()->row(),
-			'judul'	=> 'Tambah Dosen',
-			'subjudul' => 'Tambah Data Dosen',
+			'judul'	=> 'Tambah Pengajar',
+			'subjudul' => 'Tambah Data Pengajar',
 			'matkul'	=> $this->master->getAllMatkul()
 		];
 		$this->load->view('_templates/dashboard/_header.php', $data);

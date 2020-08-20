@@ -21,7 +21,7 @@
                 <tr>
                     <th>No.</th>
                     <th>NIP</th>
-                    <th>Nama Dosen</th>
+                    <th>Nama Pengajar</th>
                     <th>Email</th>
                     <th>Mata Kuliah</th>
                     <th class="text-center">Action</th>
@@ -35,7 +35,7 @@
                 <tr>
                     <th>No.</th>
                     <th>NIP</th>
-                    <th>Nama Dosen</th>
+                    <th>Nama Pengajar</th>
                     <th>Email</th>
                     <th>Mata Kuliah</th>
                     <th class="text-center">Action</th>
